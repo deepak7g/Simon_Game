@@ -9,7 +9,11 @@ body {
   margin:  5%;
   color: purple;
 }
-
+h2{
+  font-family:  cursive;
+  margin:  1%;
+  color: purple;
+}
 .container {
   display: block;
   width: 50%;
